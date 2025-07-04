@@ -5,7 +5,7 @@ from google.genai import types
 
 # 设置 API 密钥
 
-# os.environ["GEMINI_API_KEY"] = "AIzaSyAswMypTMeZmAXtsfl6PlQdo_BXQUGV0Xk"
+# os.environ["GEMINI_API_KEY"] = "XXXXXXXXXXX"
 # client = genai.Client(api_key=os.getenv("GEMINI_API_KEY"))
 
 load_dotenv()  # 默认加载当前目录下的.env文件
